@@ -1,0 +1,27 @@
+PyQt6>=6.4.0
+pyserial>=3.5
+matplotlib>=3.5.0
+
+# SpinPAK Logo Generator Requirements
+# Core numerical and scientific computing
+numpy>=1.21.0
+
+# SVG generation
+svgwrite>=1.4.0
+
+# Optimization and geometry (required for rounded corners)
+scipy>=1.7.0
+shapely>=1.8.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Interactive widgets for Jupyter
+ipywidgets>=7.6.0
+
+# Optional: For better notebook experience
+notebook>=6.4.0
+
+# Optional: For high-quality plots
+pillow>=9.0.0
